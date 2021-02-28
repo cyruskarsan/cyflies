@@ -37,10 +37,10 @@ const Hero = () => {
                   color="heading"
                   mb="40px"
                 >
-                  👋 FROM CALIFORNIA
+                  👋 FROM SANTA CRUZ
                 </Text>
                 <Title>
-                  Professional photography <br /> for your products.
+                  Professional aerial photography <br /> and videography 
                 </Title>
               </Box>
             </Col>
