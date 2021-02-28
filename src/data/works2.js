@@ -1,5 +1,5 @@
-import imgT1 from "../assets/image/jpg/photo/masonry/portfolio-mas-16.jpg";
-import imgT2 from "../assets/image/jpg/photo/masonry/portfolio-mas-15.jpg";
+import imgT1 from "../assets/image/jpg/photo/laguna.jpg";
+import imgT2 from "../assets/image/jpg/photo/lake_forest.jpg";
 import imgT3 from "../assets/image/jpg/photo/masonry/portfolio-mas-14.jpg";
 import imgT4 from "../assets/image/jpg/photo/masonry/portfolio-mas-13.jpg";
 import imgT5 from "../assets/image/jpg/photo/masonry/portfolio-mas-12.jpg";
