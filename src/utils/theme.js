@@ -33,6 +33,7 @@ const colors = {
   success: defaultColors.success,
   info: defaultColors.info,
 
+  //change black here!
   modes: {
     dark: {
       primary: defaultColors.primary,
@@ -42,7 +43,7 @@ const colors = {
       dark: defaultColors.dark,
       darkShade: rgba(defaultColors.dark, 0.5),
       ash: defaultColors.ash,
-      bg: defaultColors.dark,
+      bg: defaultColors.black,
       bgShade: rgba(defaultColors.dark, 0.5),
       front: defaultColors.white,
       frontShade: rgba(defaultColors.white, 0.5),

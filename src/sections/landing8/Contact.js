@@ -1,3 +1,4 @@
+//photography template
 import React from "react";
 import styled from "styled-components";
 import { Container, Row, Col } from "react-bootstrap";
@@ -38,13 +39,13 @@ const Contact = () => {
                 >
                   <div className="d-flex flex-column flex-lg-row justify-content-center">
                     <LinkContact
-                      href="mailto:contact@folio.design"
+                      href="cyrus@cyflies.com"
                       target="_blank"
                       className="mb-2 mb-lg-0"
                     >
-                      contact@folio.design
+                      cyrus@cyflies.com
                     </LinkContact>
-                    <span className="divider mx-2 mx-lg-4 d-none d-lg-block">
+                    {/* <span className="divider mx-2 mx-lg-4 d-none d-lg-block">
                       |
                     </span>
                     <LinkContact
@@ -52,7 +53,7 @@ const Contact = () => {
                       target="_blank"
                     >
                       linkedin.com/folio
-                    </LinkContact>
+                    </LinkContact> */}
                   </div>
                 </Box>
               </Box>

@@ -3,7 +3,7 @@ import styled from "styled-components";
 import { Container, Row, Col } from "react-bootstrap";
 
 import { Section, Title, Text, Span } from "../../components/Core";
-import imgPhoto from "../../assets/image/jpg/portfolio-about.jpg";
+import imgPhoto from "../../assets/image/jpg/Cyrus_profile_cropped.jpg";
 import imgSignLight from "../../assets/image/png/signature.png";
 
 const LinkSocial = styled.a`
@@ -33,7 +33,7 @@ const About = ({ hero = true, bg = "dark", ...rest }) => {
             <Col lg="6">
               <div className="pl-lg-4 pt-5 pt-lg-0">
                 <Title color="light" variant="secSm">
-                  Bruce Ryan
+                  Cyrus Karsan
                 </Title>
                 <Text
                   color="light"
@@ -42,21 +42,20 @@ const About = ({ hero = true, bg = "dark", ...rest }) => {
                     line-height: 1.5;
                   `}
                 >
-                  UX Designer based in New York, USA. I am designing with a
-                  minimal and beautiful design in mind.
+                 UCSC Alumni. Photography and videographer based in Santa Cruz, CA. I am a certfied FAA small craft pilot and have a passion for photogaphy and videography.
                 </Text>
                 <Text color="light" className="mt-4">
-                  I strive for a minimal and beautiful design.
+                  I strive for unique out of this world shots. 
                 </Text>
                 <div className="mt-4">
                   <Text color="light">Email me at</Text>
 
                   <Text variant="p">
                     <a
-                      href="mailto:hello@folio.com"
+                      href="mailto:cyrus@cyflies.com"
                       className="font-weight-bold"
                     >
-                      <Span color="light">hello@folio.com</Span>
+                      <Span color="light">cyrus@cyflies.com</Span>
                     </a>
                   </Text>
                 </div>
@@ -64,20 +63,12 @@ const About = ({ hero = true, bg = "dark", ...rest }) => {
                   <img src={imgSignLight} alt="sign" className="img-fluid" />
                 </div>
                 <Text color="light" className="mt-3 font-weight-bold">
-                  Bruce Ryan
+                  Cyrus Karsan
                 </Text>
                 <Text color="light" variant="small">
-                  Founder of Folio Digital
+                  Founder of Cyflies 
                 </Text>
                 <div className="mt-5 d-flex">
-                  <LinkSocial
-                    href="https://www.dribbble.com"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="mr-3"
-                  >
-                    Dribble
-                  </LinkSocial>
                   <LinkSocial
                     href="https://www.twitter.com"
                     target="_blank"
